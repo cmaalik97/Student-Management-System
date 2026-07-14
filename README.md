@@ -4,14 +4,10 @@ It supports three user roles — Admin, Teacher, and Student — each with their
 This project was developed as part of our university coursework for the React and C# ASP.NET modules.
 
 # Course Instructors
-## This project was assigned and supervised by:
+This project was assigned and supervised by:
 #### Mr. Ahmed Mohamed Abdukadir – React Instructor
 #### Mr. Abdinur Abdukadir Hashi – C# ASP.NET Instructor
 
-# The project will be evaluated in two parts:
-
-## Frontend (React) will be reviewed by Mr. Ahmed Mohamed Abdukadir.
-## Backend (C# ASP.NET Core) will be reviewed by Mr. Abdinur Abdukadir Hashi.
 ---
 # 🏗️ System Architecture
 ```
@@ -82,22 +78,20 @@ This project was developed as part of our university coursework for the React an
 
 # 🚀 Running the Project 
 
-1. Both repositories
-## Frontend
-https://github.com/cmaalik97/SMSFrontend
-## Backend
-https://github.com/cmaalik97/SMSBackend
+## 1. Both repositories
+### Frontend:  https://github.com/cmaalik97/SMSFrontend
+### Backend:  https://github.com/cmaalik97/SMSBackend
 ---
 
-2. Live Demo
-## Frontend: https://sms-frontend-sooty.vercel.app
-## Backend API: https://smsbackend-bhfp.onrender.com/swagger
+## 2. Live Demo
+### Frontend: https://sms-frontend-sooty.vercel.app
+### Backend API: https://smsbackend-bhfp.onrender.com/swagger
 
 # 👥 Team Members
 
-##   Member	 |  Responsibility
-###  Mohamed |  UI/UX Design
-###  Shuceyb |  Frontend Development
-###  Ahmed	 |  Database Design & SQL
-### Jibril   |  ADO.net
-### Abdimalik|  Backend Development (ASP.NET Core Web API)
+##   Member	      |  Responsibility
+###  Mohamed      |  UI/UX Design
+###  Shuceyb      |  Frontend Development
+###  Ahmed	      |  Database Design & SQL
+### Jibril        |  ADO.net
+### Abdimalik     |  Backend Development (ASP.NET Core Web API)
